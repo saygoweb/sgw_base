@@ -1,0 +1,12 @@
+{
+    "name": "saygoweb/sgw_base",
+    "description": "Arbitrary base conversion",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SGW_Base\\": "src/"
+        }
+    }
+}
